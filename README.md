@@ -3,7 +3,7 @@ The purpose of this project is to demonstrate how we can use cloud native buildp
 
 # How to build and run
 
-Java 8 lambdas are used here and there and thus the project can be compiled only with JDK 8 `javac`.
+project can be compiled with JDK 8 and above `javac`.
 
 To compile just do `mvn clean install`.
 
