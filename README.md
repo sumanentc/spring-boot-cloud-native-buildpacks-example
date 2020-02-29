@@ -11,7 +11,7 @@ To compile just do `mvn clean install`.
 
 Docker needs to be installed
 
-To Build the Cloud native image for the Spring Boot application execute the following:
+To Build a Cloud native image for the Spring Boot application execute the following command :
 ```
 ./mvnw spring-boot:build-image
 ```
@@ -30,4 +30,5 @@ curl http://localhost:8080/Suman
 ```
 
 for more detailed technical information please check my medium post :
+https://medium.com/@dassum/creating-a-docker-image-using-cloud-native-buildpacks-in-spring-boot-19ff81b5209d
 
