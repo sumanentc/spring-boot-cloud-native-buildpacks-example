@@ -30,5 +30,5 @@ curl http://localhost:8080/Suman
 ```
 
 for more detailed technical information please check my medium post :
-https://medium.com/@dassum/creating-a-docker-image-using-cloud-native-buildpacks-in-spring-boot-19ff81b5209d
+[Sample Cloud Native  - Spring Boot application](https://medium.com/@dassum/creating-a-docker-image-using-cloud-native-buildpacks-in-spring-boot-19ff81b5209d)
 
